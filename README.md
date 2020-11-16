@@ -1,6 +1,7 @@
 # noviembre-16
 ## ESTRUCTURA
-* Conflictos socioambientales en Chile: Termoeléctricas
+* Conflictos socioambientales en Chile
+* Hidroeléctrica
 * Caso Alto Maipo
 * ¿Qué es Alto Maipo?
 * Contexto - Historia
