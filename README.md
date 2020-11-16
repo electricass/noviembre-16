@@ -13,3 +13,6 @@
 * Consecuencias según opositores
 * Problema Político-social
 * Constitución
+
+
+https://www.figma.com/file/yMdBrkT9TyPAoLqDBGMtaZ/Infograf%C3%ADa-Digital?node-id=38%3A4
